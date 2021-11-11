@@ -183,6 +183,7 @@
     <ClInclude Include="vendors\FastNoise2\include\FastSIMD\FunctionList.h" />
     <ClInclude Include="vendors\FastNoise2\include\FastSIMD\InlInclude.h" />
     <ClInclude Include="vendors\FastNoise2\include\FastSIMD\SIMDTypeList.h" />
+    <ClInclude Include="Walker.h" />
   </ItemGroup>
   <ItemGroup>
     <CopyFileToFolders Include="vendors\FastNoise2\bin\FastNoise.dll">

@@ -56,4 +56,8 @@ public:
 		return window;
 	}
 
+	int getWidth() const { return width; }
+	int getHeight() const { return height; }
+	float getHalfWidth() const { return halfWidth; }
+	float getHalfHeight() const { return halfHeight; }
 };
